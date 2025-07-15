@@ -14,7 +14,7 @@ O objetivo é adivinhar o número escolhido pelo sistema, recebendo dicas se o p
 
 ## 🕹️ Como jogar
 
-1. O sistema gera um número secreto aleatório entre um intervalo definido (por exemplo, 1 a 100).
+1. O sistema gera um número secreto aleatório entre um intervalo definido (por exemplo, 1 a 10).
 2. O jogador insere seu palpite.
 3. O sistema informa se o palpite é maior, menor ou igual ao número secreto.
 4. O jogo continua até o jogador acertar o número.
