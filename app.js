@@ -20,7 +20,7 @@ exibirMensagemInicial()
     let chute = document.querySelector('.container__input').value;
 
     if (chute == numeroSecreto) {
-        if (tentativas > 10) {
+        if (tentativas > 8) {
     const sustoDiv = document.createElement('div');
     sustoDiv.id = 'susto';
     sustoDiv.innerHTML = `
